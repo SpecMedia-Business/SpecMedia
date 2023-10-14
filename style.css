@@ -1,0 +1,155 @@
+.desktop {
+  background-color: #12111f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #12111f;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 440px;
+  height: 811px;
+  top: 543px;
+  left: 1165px;
+  background-color: #55b7ce;
+  transform: rotate(42.3deg);
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 440px;
+  height: 811px;
+  top: -311px;
+  left: -284px;
+  background-color: #55b7ce;
+  transform: rotate(42.3deg);
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 349px;
+  height: 334px;
+  top: 135px;
+  left: 544px;
+}
+
+.desktop .ecbd-b {
+  position: absolute;
+  width: 349px;
+  height: 317px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 272px;
+  left: 74px;
+  font-family: "Sahitya-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .we-are-creating-an {
+  position: absolute;
+  top: 477px;
+  left: 530px;
+  font-family: "Sahitya-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .span {
+  color: #ffffff;
+}
+
+.desktop .text-wrapper-2 {
+  color: #55b7ce;
+}
+
+.desktop .till-then-contact-at {
+  position: absolute;
+  top: 508px;
+  left: 474px;
+  font-family: "Sahitya-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 116px;
+  height: 25px;
+  top: 575px;
+  left: 737px;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  width:117px;
+  left: 38px;
+  font-family: "Sahitya-bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .facebook {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 117px;
+  height: 27px;
+  top: 575px;
+  left: 588px;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  font-family: "Sahitya-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .instagram {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 2px;
+  left: 0;
+  object-fit: cover;
+}
